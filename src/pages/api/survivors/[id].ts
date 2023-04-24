@@ -1,40 +1,21 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { readFileSync, writeFileSync } from 'fs';
-import { SurvivorProps } from '@/types/survivor.types';
-import { join } from 'path';
+import { prisma } from '@/lib/prisma';
 
-export default function handler(req: NextApiRequest, res: NextApiResponse) {
-  if (req.method === 'GET') {
-    const id = String(req.query.id);
-
-    return res.status(200).json({ id });
-  }
-
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse
+) {
   if (req.method === 'PATCH') {
     const id = String(req.query.id);
     const isInfected = Boolean(req.body.isInfected);
 
-    const jsonDirectory = join(process.cwd(), 'json');
+    await prisma.survivor.update({
+      where: { id },
+      data: { isInfected },
+    });
 
-    const data = readFileSync(`${jsonDirectory}/survivors-data.json`, 'utf-8');
-    const { survivors } = JSON.parse(data) as {
-      survivors: SurvivorProps[];
-    };
-
-    const survivorIndex = survivors.findIndex((survivor) => survivor.id === id);
-    survivors[survivorIndex].isInfected = isInfected;
-
-    try {
-      writeFileSync(
-        `${jsonDirectory}/survivors-data.json`,
-        JSON.stringify({ survivors }, null, 2)
-      );
-    } catch (error) {
-      console.error(error);
-      return res.status(500).json({});
-    }
-    return res.status(200).json({ ok: true });
+    return res.status(204).send({});
   }
 
-  return res.status(200).json({});
+  return res.status(404).json({ message: 'Route not found' });
 }

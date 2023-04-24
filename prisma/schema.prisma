@@ -1,0 +1,21 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+model Survivor {
+  id            String  @id
+  name          String
+  quote         String
+  desc          String  @db.MediumText
+  survivorImage String
+  zombivorImage String
+  isInfected    Boolean
+
+  @@map("survivors")
+}
