@@ -39,10 +39,10 @@ const nextConfig = {
         source: '/api/:path*',
         headers: corsHeaders,
       },
-      {
-        source: '/api/:path/:subpath*',
-        headers: corsHeaders,
-      },
+      // {
+      //   source: '/api/:path/:subpath*',
+      //   headers: corsHeaders,
+      // },
     ];
   },
 };
