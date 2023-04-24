@@ -4,6 +4,12 @@ import { SurvivorProps } from '@/types/survivor.types';
 import { join } from 'path';
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
+  if (req.method === 'GET') {
+    const id = String(req.query.id);
+
+    return res.status(200).json({ id });
+  }
+
   if (req.method === 'PATCH') {
     const id = String(req.query.id);
     const isInfected = Boolean(req.body.isInfected);
@@ -25,10 +31,10 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
       );
     } catch (error) {
       console.error(error);
-      return res.status(500).send({});
+      return res.status(500).json({});
     }
     return res.status(200).json({ ok: true });
   }
 
-  return res.status(400);
+  return res.status(200).json({});
 }
