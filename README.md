@@ -1,5 +1,7 @@
 # Survivors
 
+https://survivors-fpay.vercel.app/
+
 # How to install and run
 
 `yarn / npm install`
