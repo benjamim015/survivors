@@ -17,5 +17,7 @@ export default async function handler(
     return res.status(204).send({});
   }
 
-  return res.status(404).json({ message: 'Route not found' });
+  return res
+    .status(200)
+    .json({ message: 'Nothing here, go back or you will get infected!!' });
 }
