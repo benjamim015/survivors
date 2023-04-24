@@ -22,7 +22,7 @@ export default function Home() {
     isFetchingNextPage,
     hasNextPage,
     isRefetching,
-  } = useSurvivors(searchByInfected, search);
+  } = useSurvivors(searchByInfected);
 
   useEffect(() => {
     if (inView) {
@@ -38,7 +38,7 @@ export default function Home() {
     setSearchByInfected((prev) => !prev);
   };
 
-  const survivors = data?.pages.flatMap((page) => page.data);
+  const survivors = data?.pages.flatMap((page) => page.data.survivors);
 
   if (error) {
     return `An error has occurred: ${error}`;
@@ -59,7 +59,7 @@ export default function Home() {
         <div className="flex flex-wrap gap-8 items-center justify-center">
           {!isRefetching &&
             survivors?.map((survivor, index, array) => {
-              if (survivor.name.includes(search)) {
+              if (survivor.name.toLowerCase().includes(search.toLowerCase())) {
                 return (
                   <div
                     key={survivor.id}

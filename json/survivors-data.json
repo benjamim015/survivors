@@ -1,0 +1,778 @@
+{
+  "survivors": [
+    {
+      "id": "7ba0df7c-665a-44c1-be1a-5e1c71c62797",
+      "name": "Adam",
+      "quote": "“If you had the choice, would you get back to your previous life?”",
+      "desc": "Most people feel unease when meeting Adam for the first time. Such a cheerful pal has to be crazy! Adam sets things right in a matter of minutes. He chose to enjoy his newfound life in the zombie apocalypse and gladly shares his positive vibes with anyone around. Except zombies, of course, who feels how proficient this happy warrior is with any weapon, especially melee ones.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fAdam.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fAdam-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "a18da22d-ff59-4791-96a0-bd105ec72d69",
+      "name": "Goth Amy",
+      "quote": "“I shouldn’t have to explain why we need to loot the makeup store.”",
+      "desc": "Amy was a goth girl who hated everything; from mindless consumerism to the pointlessness of daily existence. The world Amy despised so much has crumbled, and from the rubble comes the promise of a fresh start and simpler times. Desperate zombie battles have sparked a will to live in Amy and finally given her something to care about; but she still doesn’t feel comfortable without some white foundation on.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/famy.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/famy-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "c3642d61-0926-470f-aa0c-aadf1e06e6dd",
+      "name": "Bear",
+      "quote": "“Outnumbered one to five? Sounds like fun.”",
+      "desc": "Bear is a force of nature, and one to fear. He’s made of earthquake stuff and can lift a man with one hand. His favorite sport? Zombie tossing.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fBear.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fBear-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "3854ad3a-b86e-4d65-a082-87ceeef94f95",
+      "name": "Parkour Belle",
+      "quote": "“The city is like a forest. The ground isn’t the only way to travel.”",
+      "desc": "Daughter of a former drill instructor, Belle grew up in the street and expressed herself through parkour, running through the city like an obstacle course. For her, the city is no different than any wild landscape and has its own natural laws. Prey never looks up to see the predators on rooftops! Things have changed, however, with the crowds turned into idiot monsters. The herd has to be culled.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbelle.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbelle-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "f80cbae5-1d35-4cf8-8ce9-27f5078846e4",
+      "name": "Cathy",
+      "quote": "“They can’t bite what they can’t even touch.”",
+      "desc": "A kind-hearted sprinter with a hatred for zombies, Cathy can outrun anything and anyone (except a roller-skating bimbo).",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fCathy.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fCathy-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "3599093e-5e38-49bc-b911-818506572e48",
+      "name": "Dan",
+      "quote": "“Don’t die, or I’ll kick your ass back.”",
+      "desc": "Generous and wise, Dan has a knack for finding a solution to any problem in no time, including getting to Hell and back.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fDan.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fDan-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "a3f5b88f-ac40-4fe9-996e-016be31a7705",
+      "name": "Derek the Locator",
+      "quote": "“I’ve seen him coming from afar, and he didn’t see anything coming.”",
+      "desc": "Derek was travelling the far north to establish claims and find anything that someone could want in those cold countries. With eagle eyes and nerves of steel, Derek didn’t wait for the zombies to be a survivor.\nZombies only changed one thing in his life. When civilization collapsed, Derek chose to head for the south and an easier life. He walked one or two thousand kilometers without difficulties. Nothing is difficult when you know you to survive a blizzard!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fderek.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fderek-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "0db8a810-b41d-4dff-bd9c-a90217f6d879",
+      "name": "Doug the Office Guy",
+      "quote": "“On the plus side, no more TPS reports.”",
+      "desc": "Four-hour commutes, 12-hour days, uncooperative colleagues, and unappreciative bosses are a thing of the past for Doug. Sure, dealing with zombies is a little stressful, but quite frankly, he still finds them a pleasant change from his previous daily grind. He feels sure that an Uzi in each hand would have greatly simplified staff meetings. They certainly help in dealing with troublesome ex-colleagues and ex-bosses, most of whom Doug is pretty sure are zombies.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdoug.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdoug-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "d5ac0586-a20c-4dd7-8a13-89e63cbda6dc",
+      "name": "Elsa the Cat-Burglar",
+      "quote": "“Next time, they might as well lock the door with gift wrap. It won’t be more secure, only prettier.”",
+      "desc": "Born a beautiful girl in a poor family, Elsa learned that agility, attractiveness, and subtlety could open all the doors to wealth. Stealing precious goods was her daily adrenalin fix, especially if it involved acrobatics and a real security challenge.\nElsa was running from the cops on the roofs when the zombies came and changed her life. Gold is useless now, but locked doors still shelter precious goods. Smiling and playful amidst the chaos, this kitten enjoys the apocalypse. All social barriers are down, only skill matters. And how skillful Elsa is!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/felsa.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/felsa-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "1d0a11cc-d9d1-46f6-8e4d-14904a089308",
+      "name": "Grindlock the Headbanger",
+      "quote": "“This Abomination poseur can’t even roar properly. My turn”",
+      "desc": "Heavy metal isn’t a musical style, it’s a way of life, and it’s the path Grindlock chose. Sure, this mountain of a man didn’t exactly fit the mold, but he didn’t care. Work had to be done, music had to be loud, and everything else was superficial.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fgrindlock1.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fgrindlock-z1.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "20b21180-cc23-4c91-bb26-889892ad6f6e",
+      "name": "James",
+      "quote": "“That’s what I call a deadeye shot.”",
+      "desc": "A skilled marksman, James likes to see himself as a modern hunter on a permanent safari—a zombie safari, of course. Challenge accepted!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJames.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJames-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "3904debb-a08b-4084-b9f1-1ee5311e794d",
+      "name": "Jane",
+      "quote": "“Crowd control? I’ll show you crowd control!”",
+      "desc": "The quickest trigger in town, Jane keeps her attitude and second-degree humor even in the direst of situations. To meet her is to love her!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJane.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJane-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "8aa0d4a7-ed07-4230-9b55-075a0a312b99",
+      "name": "Jeff",
+      "quote": "“We all brought our own solutions to the zombie issue. Tell me about yours!”",
+      "desc": "A logical mind and skilled marksman, Jeff is used to bring his unique point of view on any situation arising in the zombie world. More often than not, he’s advocating about the use of teamwork and precise strikes to reach the intended goals. And then come the times when he goes silent and single-handedly kills scores of zombies, one headshot at a time.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJeff.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJeff-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "6a10f579-09ea-44ab-99f6-637643778b01",
+      "name": "Joe",
+      "quote": "“Recycling to save the planet takes on a whole new meaning, eh?”",
+      "desc": "Joe knows how to find the weirdest stuff and turn it into something useful—even lethal—in no time. Before the zombies, he was considered a jerk. Now, everyone knows he’s a genius!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJoe.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJoe-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "377741fd-c862-4dda-a52f-6d0b6e3d4c20",
+      "name": "Josh the Thug",
+      "quote": "“I don’t want your money. What am I supposed to do with it?”",
+      "desc": "Josh grew up poor in a tough neighborhood and turned to simple street crime just to get by. It was all he could do to survive day to day before the zombies. Now there’s no more law, and no one can tell him what to do. Josh has found his street smarts in high demand by other survivors. Respect, he finds, is worth more than all the money in the world.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjosh.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjosh-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "b487c4b4-b03a-47ce-907b-3aa870d65186",
+      "name": "Joshua the Protector",
+      "quote": "“No one dies on my watch!”",
+      "desc": "Joshua had long studied how to survive a zombie invasion. Books, movies, and videogames taught a lot of crap but also contained lessons for a sharp mind. When the apocalypse finally came, Joshua packed his stuff and vowed to save as many people as possible, as long as they listened to him and didn’t attempt anything foolish. Now he has found a team and is willing to do anything to keep it together. Joshua is always here to save the day!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjoshua.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjoshua-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "adb16396-3170-40f7-b337-b06678adc161",
+      "name": "Julien",
+      "quote": "“Stay focused, plan ahead, and pull the trigger!”",
+      "desc": "Asking about the past is considered impolite these days, but people can hear in Julien’s accent he comes from a foreign country, most probably Europe. Julien is really at ease with urban warfare. He defined a battle style balanced between fury and cold-bloodedness, and proves an invaluable asset with any kind of shotgun.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJulien1.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fJulien-z1.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "84bed8a7-3524-4fbb-aec2-5fc83896e00d",
+      "name": "Kim, Pokerface",
+      "quote": "“Place your bets; time for a dead man’s hand. Read ‘em and weep!”",
+      "desc": "Fast-handed, thrill-seeking, and witty, Kim worked for a crime boss in an underground casino for years. Her incredible luck was like a signature. She earned her gang more money in a single evening than most people did in ten years. She already led a very dangerous life before the zombies came, and for her, the apocalypse is just a new hand of cards. All clues of her criminal past have been washed away in blood. Survival is the greatest game of all, and Kim already knows she’ll win. Luck is on her side!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkim.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkim-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e6664abc-56ae-46d1-a753-fae5518ada31",
+      "name": "Laurie",
+      "quote": "“…and then poof! No more zombies. Laurie wins!”",
+      "desc": "An introverted woman most of the time, Laurie reveals her true self in the heat of a fight. There her hands move faster than the eye can see, and especially faster than zombies.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fLaurie.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fLaurie-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "dd909f14-1012-49e4-8759-b7be2ebb165e",
+      "name": "Louise",
+      "quote": "“Always bring the right tools for the wet work.”",
+      "desc": "Louise is not the kind of woman to hide in a shelter. She has walked the zombie town on many occasions and hid many weapons in unexpected places. No one ever catches her off-guard!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fLouise.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fLouise-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "721f527d-a4f4-48e1-a745-41a6727dfdad",
+      "name": "Maddie",
+      "quote": "“Say ‘no future’ again, and I break your face. D’ya hear me?”",
+      "desc": "Maddie doesn’t think about her past anymore. All she sees are the simple facts of life and death, and right now she’s at war. A war against zombies in general and capitalist zombies pigs in particular!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fMaddie.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fMaddie-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "d854afcb-f2da-489f-809c-42d010e48cc8",
+      "name": "Crazy Ned",
+      "quote": "“Just add a bit of bleach and BANG! Heh heh heh…”",
+      "desc": "Ned knew it. He KNEW this would happen. THIS is THEIR fault. He SAID so, over and over, but NOBODY ever listened. Boy are they SORRY now. Ned was preparing for years: collecting food and weapons, building a bunker, all to survive THIS. Unfortunately for Ned, he’s lost his bunker key. Until he finds it, he’s going to need every survival skill he’s got. And he’ll probably need other people, too. Crap.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fned.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fned-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "57c81f0b-29bf-4711-ad80-09131cf6a56c",
+      "name": "Neema the Executive",
+      "quote": "“Hold on. A quick calculation shows the probabilities are against us by 16.6%… Just kidding. Go in full auto.”",
+      "desc": "Neema already had a survivor’s iron will before the apocalypse. By relentless work and determination, she shattered the glass ceiling and climbed the corporate food chain straight to the top. Her ambition was only paralleled by her intelligence. Being an executive was just the first step on her irresistible ascension. The zombies ruined her life’s work and triggered something in Neema, something feral. Neema is still a born leader, but now she has a fire burning in her chest. She’s an alpha female leading her pack with wise words and a rightful fury. Don’t anger the lioness, because her heart knows no fear.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fneema.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fneema-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "0efcc895-606b-4e11-87a5-1e629efdd227",
+      "name": "Parker",
+      "quote": "“Well, I guess this one died of a massive lead intolerance.”",
+      "desc": "In time of zombie invasion, having a medic around is an invaluable asset. Don’t be fooled, however. Parker is a hardened warrior and can pull her own weight around, and yours, if needed.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fParker.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fParker-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "d1819e30-694b-4279-9c30-a38b5f47506a",
+      "name": "Phil the Cop",
+      "quote": "“I’ll cover you. Just stay out of my line of fire! Go, go, go!”",
+      "desc": "Phil is a policeman through and through, even though there isn’t a police force any more. He still wears his uniform, keeps his sidearm secured, and sees it as his duty to protect civilians; at least, those that are still human. Being a cop keeps him sane, if a bit of a stick in the mud.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fphil.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fphil-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "add223c9-dfe5-4294-95d0-e288414f996c",
+      "name": "Raoul the Contractor",
+      "quote": "“Suck it up maggots! Time to get out there and vaccinate these meat bags!”",
+      "desc": "A former military medic, Raoul had been plying his trade with the local ambulance company, a burned out paramedic team leader. He thought he had seen it all. Then his colleagues and friends started answering emergency calls at the start of the outbreak and getting munched on by zombies. Now, Raoul is looking to apply some band aids and get some pay back, and he’s all outta band aids. He’s kitted out, ready to hit the streets, and is packing all the medication that any meat-bag who gets in the way is going to need.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fraoul.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fraoul-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e5128c8a-609e-44b7-8de8-c6367647d2b6",
+      "name": "Shannon the Soldier",
+      "quote": "“We all fight for what we lack. What is your war?”",
+      "desc": "Of Irish descent, Shannon is a woman of action. Gang wars, police, militia, the army, she had it all but never found a fight that could engage her body and soul. Back in civilian life after another accident with her last partner, Shannon was looking for a bouncer job when zombies came and gave her life real meaning. Shannon now has many causes to fight for: survival, protecting untrained people, and exterminating zombies with extreme prejudice. Surrounded by blood and death, she feels right at home and more alive than ever.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fshannon.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fshannon-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "4f2f165c-8980-4690-b36d-ea8290fc5be9",
+      "name": "Terry",
+      "quote": "“Peace? Peace?! I hate that word.”",
+      "desc": "A war veteran, Terry left one battlefield for another. His skills as an officer could turn college coeds into a commando team. Just imagine what he can do with hardened survivors.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTerry.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTerry-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1576db2a-6a24-4da1-9061-882c0ec67c59",
+      "name": "Tiff",
+      "quote": "“Let’s turn the zombies into scream queens!”",
+      "desc": "Enthusiastic and ready to go to any length to protect her teammates, Tiff embodies the rock n’roll spirit among survivors. She’s especially fond of pre-apocalypse items linked to lifestyle and music and likes to see herself as some kind of treasure hunter. Her most prized weapon, however, is her trusty sub MG!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTiff.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTiff-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "73287a39-4770-445c-8611-bf80e3a84533",
+      "name": "Travis",
+      "quote": "“Accuracy or raw power? Why choose? Use both.”",
+      "desc": "Travis is a learned man turned skilled zombie killer. Patient and ruthless, he especially likes the fact that the zombie apocalypse reveals peoples’ true colors.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTravis.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fTravis-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "51796cb8-d57e-4fa8-bdab-235ae9b7d7a3",
+      "name": "Wanda the Waitress",
+      "quote": "“Hands off, pal, or I chop them off!”",
+      "desc": "Wanda served burgers and beer at the local retro drive-in. The zombie apocalypse hasn’t changed her routine much; she still spends her days dodging grabby hands, scooting around on roller skates, and firmly rejecting inappropriate advances, all for some second-rate food and a few lousy tips. The new chainsaw is a nice perk, though.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwanda.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwanda-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "ec7011e4-ed86-43cd-a286-f72ccbd0ecb3",
+      "name": "Watts the Family Man",
+      "quote": "“Don’t you dare tell me what to do. I’m not a sheep anymore. Look what following orders led us to!”",
+      "desc": "After a tumultuous youth, Watts decided to lead a normal life with a casual job, a wife, two kids, and a Jack Russell. It almost worked. After ten years, his company relocated and fired him to cut costs. The family man was spiraling down to become a zombie when the real zombies appeared and saved his life by waking him up. Watts sat his family on a bus, uncovered his old baseball bat and rediscovered his old habits. Punk’s not dead. It never really dies.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwatts.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwatts-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "27010bf5-6fa7-4f5b-9d47-2acdcbdc28ca",
+      "name": "Achille the serial killer",
+      "quote": "“Have you ever tried to hunt humans? You can’t understand zombies if you never have.”",
+      "desc": "Achille is insane, a demented serial killer. He would be a danger to any survivor if he hadn’t changed his mind when the apocalypse came and decided to focus his murderous instinct on zombies. He finds being surrounded by potential victims that are actively hunting him terribly exciting. The human mind has nothing left to teach him. The zombie mind, however, even thought it seems simpler, has an interesting potential. Well, you were warned.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fachille.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fachille-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "34899b5c-645c-4831-8c37-043e2efc3ebe",
+      "name": "Adriana the shopgirl",
+      "quote": "“No one steals my job, my dreams, and my future without paying. The body count will skyrocket tonight.”",
+      "desc": "Adriana had worked all her life just to get a chance. Blessed with potential but very little else, she worked days as a shop girl and nights rehearsing or performing with the chorus and dreaming of fame. Then, the zombies came out of nowhere on a busy Saturday, and her dreams shattered in a few hours. Adriana isn’t alone, however. After a fierce zombicide in the mall with a team of survivors, Adriana decided to stop fighting just for herself and start fighting for the future. An enthusiastic volunteer, Adriana is now one the fiercest zombie hunters in town. Her drive to save as many survivors as possible and rebuild the city is a beautiful vision she shares with everyone.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fadriana.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fadriana-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1ae29d01-8b38-47a8-b573-133ddf79a76c",
+      "name": "Audrey, the bookworm",
+      "quote": "“What do you take me for, a roller-skating bimbo?”",
+      "desc": "From an early age, Audrey strove to achieve freedom through knowledge. She knew that knowledge and education would open many doors and get her the kind of true independence she craved. So she put aside the dreams society said girls should have and immersed herself in learning. Once she had degrees and money, she figured she would have time to build a solid network of friends and a social life.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/faudrey.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/faudrey-z.jpg",
+      "isInfected": true
+    },
+    {
+      "id": "9e382b11-577f-49b4-92be-bb7a90ef5208",
+      "name": "Bastian, the Street Lunatic",
+      "quote": "“The cats will inherit the Earth.”",
+      "desc": "Bastian’s habit of singing and dancing in traffic made him a much-loved figure in his hometown. Closely acquainted with the local authorities, clad in white pants and a bright blue sweater, he was always willing to discuss the wonder of argyle socks, the healing properties of swallowed pennies, and the fact that cats are really aliens with random pedestrians and motorists stuck in traffic. Since Bastian has always been crazy, the fact that the world is now the same way doesn’t bother him one bit. The way he sees it, he’s always been the sane one. Quite capable of defending himself, Bastian never sticks with any group for an extended time period.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbastian.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbastian-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e2112ab6-f60e-40e2-ac50-12732cda2952",
+      "name": "Benny, the Children’s Performer",
+      "quote": "“And now, boys and girls, let’s give a big hand to Benny the Bear!”",
+      "desc": "Needing beer money, Benny answered an ad from a company specializing in children’s parties. A star was born that day. A born thespian, Benny’s repertoire included a bear, a knight, a giant, a talking zebra, and a friendly commando. He was at a children’s party dressed as Captain Jack Action, the star of a popular children’s TV show, when the zombies came. Benny’s gun was a toy but like all great performers he improvised, fleeing the scene. He wears the costume to keep people from screwing with him and his acting skills make him much in demand amongst survivor groups…for a while.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbenny.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbenny-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "da44d6cb-6066-413d-ad81-ecedab294be1",
+      "name": "Bill the prison director",
+      "quote": "“I’ve always wanted to say this: death sentences for everyone!”",
+      "desc": "Bill was the prison warden for years. Nicknamed “the King”, he was responsible for the lives and destiny of hundreds of inmates. Though despised by an ungrateful public, Bill found the job very rewarding on a human level. In a way, he managed a microcosm of sin and redemption. Bill witnessed the birth of berserker zombies among the convicts and lost his prison after a heroic resistance. He knows the value of a tight-knit team and a reliable shelter. He knows the prison like his own house and plans to bring in as many survivors as possible. But first, he has save as many people as he can find.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fBill.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fBill-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "170643f8-32a7-46b1-b06d-481f25c759de",
+      "name": "Brad the crime lord",
+      "quote": "“Twice in the head, just to be sure.”",
+      "desc": "From his very youth, Brad could not live by the rules and wish he was born in the wild west. Refraining anyone’s potential has always been anathema for him. So he became a mobster and climbed the crime ladder, eventually becoming a crime lord until he was betrayed and sent in jail. Brad allied with the prison director when apocalypse came and they escaped together. Now Brad is free in a world that doesn’t have rules anymore… just like the wild west!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbrad.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fbrad-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "3dd52974-08ae-4ac9-a980-37e9d06a4ad1",
+      "name": "Cat, the Gardener",
+      "quote": "“Once we clear out the bad seeds, the city will be reclaimed by the wild.”",
+      "desc": "A summer girl with a fresh spirit, Cat was a freelance gardener offering her skills to turn a backyard wilderness into Eden. Taking care of flowers and trees was more a way of life than a job for her, tending the last sparks of the wild in a concrete world. Cat knew modern life would have some horrible consequences one day or another, but she didn’t expect doomsday to be a zombie swarm. The first days were very hard for Cat, but she soon realized this could be an opportunity for mankind and nature alike. A new civilization may arise, and survivors will have to learn to live with Mother Nature. She will be here to teach them. Until then, it’s the survival of the fittest. Bring on the apocalypse and automatic weapons!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fcat.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fcat-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e6858ea7-870d-443e-b25d-862b31448584",
+      "name": "Chuck, Momma’s boy",
+      "quote": "“Is it dinner time yet?”",
+      "desc": "Against all odds, Chuck has managed to survive the rise of the zombies. Living in his parent’s basement, this 30 something man child’s lack of real world experience hasn’t been much of a disadvantage, since there isn’t of a world anymore. Armed with his deep knowledge of zombie survival lore gleaned off videogames and the Internet, Chuck is an unlikely, chubby ally – and possible food source if things get desperate.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fchuck.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fchuck-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "9c979d69-1fb7-484d-b16f-768dc161f297",
+      "name": "Claudia, the rebel",
+      "quote": "“Dad used to shamble like that when he was drunk… which was all the time…”",
+      "desc": "Unloved child of a struggling couple, Claudia was born and raised in a poor hood. A mother that worked three jobs at once and a father that grew a bit too close when Claudia became a teen soon led Claudia to the gangs. Getting in trouble with the po-po and mixing it up with other gangs was a great education in unorthodox combat. The good news is that these skills are pretty handy against zombies.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fclaudia.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fclaudia-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e200c361-da6f-4ec2-8d4f-a197d3438466",
+      "name": "Curro, the Bookmaker",
+      "quote": "“Abomination? I’ll show you an abomination. When I’m done, zombies will fear humans, not the other way around.”",
+      "desc": "A violent man in a violent world, Curro finally feels at peace with himself… well, in a way. He’s at least much happier as a zombie butcher than a book publisher (although it can be argued that the publishing business is as cut-throat as any gang war). Eventually he went too far in the pursuit of high profit margins and found himself in jail. When the apocalypse began and the prison was overrun, he personally battered half a dozen berserkers to death with a crowbar. The world needs men like him again, although the overwhelming nature of his rage threatens to turn him into a greater monster than those he destroys.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fcurro.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fcurro-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "36bd318a-f788-4aa1-9cad-35089e584105",
+      "name": "Dakota the convict",
+      "quote": "“The law no longer protects the weak. Nothing protects the weak. Do you feel weak?”",
+      "desc": "With her stunning looks and wits, Dakota could have lived a comfortable life. Instead, she chose a life of crime. She did time for everything from robbery to car theft. Her last sentence would have kept her inside long enough to go from the jail to the old folks home, but then the zombies came. Dakota is done running and hiding. She’s here to claim her liberty and gain respect by spilling zombie blood anywhere she chooses to call home. She speaks freely about her past to any survivor she meets and improvises according to their reaction. But is she really the evil person she claims to be?",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdakota.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdakota-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "b7f827a0-3208-4acc-84d7-93fe2a366d53",
+      "name": "Dave, the geek",
+      "quote": "“Yeah sure, take the shotgun if you want, I’ll take the… AMMONIUM… NITRATE!”",
+      "desc": "As far as he remembers, Dave always found reality to be terribly boring. So he locked himself up in an imaginary world and learned piles of useless stuff… useless until now. Dave is a fount of knowledge. His chemistry mastery makes him look like a superhero amongst other survivors. At least until he opens this mouth, then everyone remembers he’s a real geek.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdave.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdave-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "a39980b6-9a7c-44da-bb17-17c8a9797d96",
+      "name": "Dick, the Undertaker",
+      "quote": "“Need grandma buried quick? Come see Dick!”",
+      "desc": "Voted Undertaker of the Year three years running, Dick Johnson’s chain of cut-rate funeral parlors consistently buried the competition. When the dead actually rose Dick hid in one of his own custom-made coffins for three days hoping to ride it out. Reemerging into a dead new world and realizing that since nobody died anymore he was now the most useless man on Earth, Dick threw himself into the business of survival with the same vigor he displayed in building his one-man empire of the dead. Dick’s knowledge of anatomy, embalming chemicals, and obscure undertaking lore will prove invaluable to any group he joins.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdick.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdick-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "01cd7d08-d6b9-4189-8f61-cf4e3406dcf4",
+      "name": "Doc, MD",
+      "quote": "“I named my bat ‘Anesthesia.’ No, I don’t talk to her—it. I meant to say ‘it.”",
+      "desc": "Doc was once a fairly ordinary family practice doctor. Happy-go-lucky and always wearing a smile, he took great pleasure in curing his patients through a kind heart and a healthy outlook. All that changed with the apocalypse. Seeing his former patients turned into rampaging horrors – horrors that he’s occasionally had to put down – has taken its toll on this once friendly fellow. He does his best to live with it, but his downward spiral has only just begun. Nevertheless, he’s still a doctor, and healing patients is what he does best. If there was ever a time when his skills were needed, it’s now!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdoc.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdoc-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "58b553be-6df0-452c-b809-ebcb80b76c09",
+      "name": "Don the civil servant",
+      "quote": "“I could do with a biscuit.”",
+      "desc": "Good old reliable Donald was until very recently an under-secretary at an obscure ministry. Pushing papers his entire career, Donald quite enjoyed his calm, ordered life. Governments might come and go, but whoever happened to be in power always needed the civil bureaucracy. Of course, Don noticed things were amiss instead of her usual nodding off while he gave his daily briefing, his Minister tried to have him for a light snack. Which was terribly improper and impolite, and he with some reluctance had to cave her head in with a bust of Winston Churchill. Now, the weighty responsibility of organizing a new society rests on Don’s soldiers. Things have to be done properly of course, ammo requisition, food rationing, sleeping arrangements and the like. He does quite enjoy executing the unruly zombie constituents, though.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdon.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fdon-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "cf5a54a6-8412-4521-a144-7161a91e3323",
+      "name": "Eagle Chaz, the american hero",
+      "quote": "“I hate killing but I’ll make an exception. Being the good guy doesn’t mean being nice!”",
+      "desc": "Eagle Chaz is THE man. He fought crime and evil. He fought for freedom, he stood for the weak against the powerful. He knows how to use guns but his body is his best weapon. Usually, Eagle Chaz doesn’t want to kill, unless he has no other choice. He is a THE good guy. Well, zombies aren’t really people, so let’s just call it target practice.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fchaz.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fchaz-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "c86fb925-8e5c-496c-a759-603fcc067ca6",
+      "name": "El Cholo",
+      "quote": "“I’m not angry, I’ll show you angry… Joder!”",
+      "desc": "No one seems to know this gruff latino’s real name but everyone calls him El Cholo. Whether he minds, or even cares is unknown, El Cholo rarely speaks, preferring to let his twin machetes do the talking. A hardened farmhand or possibly an ex-cartel enforcer, putting Zombies down at close quarters is El Cholo’s specialty, and damn! he’s good at it. The survivors whisper stories of hopeless last stands and daring raids, and El Cholo walking out covered in (someone else’s) blood.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/felcholo.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/felcholo-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "aceb0deb-e46a-4028-8319-6d5e4f3bc1c8",
+      "name": "Eva, the artist",
+      "quote": "“Skill is a matter of life AND death.”",
+      "desc": "Inspired and gifted, Eva was unsatisfied with her humble life as an accountant. Being part of the rank and file felt to her like being a zombie. So in her spare time, Eva sketched, sculpted, and created beautiful things. Her artist’s eye allowed her to estimate distances, forms, and perspective. This is also astoundingly useful for shooting. Like everyone else, the zombie invasion changed Eva’s life. Acting normal is now nonsense, and she feels more alive than ever. Extroverted and hyperactive, Eva acts as a messenger between survivors groups. There’s no way she’s going to give up either her notebook full of sketches or her sub machinegun.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/feva.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/feva-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "6598cb59-693a-4a85-a7e8-ac15704a4fc7",
+      "name": "Frank the repo man",
+      "quote": "“I’ll get us a car.”",
+      "desc": "Frank is a laid back guy who used to repossess stuff that folks didn’t make their payments on. In his case, his specialty was cars, usually getting into them and driving off before the previous owners even realized what was going on. Not usually a dangerous job, Frank still found it best to carry some protection with him on his job – his handy baseball bat has since saved him countless times. He’s got a fondness for loud Hawaiian shirts, and may make small sidetrips into stores looking for fresh ones to add his wardrobe.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ffrank.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ffrank-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "95249bae-7b28-4540-985e-3e981904c8b4",
+      "name": "Fred the trader",
+      "quote": "“I guess Wall Street is really occupied now!”",
+      "desc": "Fred used to be a mathematical genius with intuition and an aggressive instinct. Trading was second nature for him, and while he regretted some of his decisions, he enjoyed his job a lot. Still, he felt something missing, a thirst his huge bonuses could not quench. Then the zombies came, changed his world, and brought him the answer. A predator at heart, Fred needed real action to feel alive. He was the first on the trading floor to understand what was going on and what he needed to do. Fred was the only one to get out alive. His real life had just begun.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ffred.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ffred-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1e42e0d2-53a0-4ab0-ad3c-b73d6e026301",
+      "name": "Gary the misfit",
+      "quote": "“Being a pacifist doesn’t mean I’m non-violent. Zombies love to be pacified.”",
+      "desc": "“Gary, master of none”, so people used to say. Gary didn’t have a solid education and his demeanor seemed too “cool” to find reliable work and live in the mold of everyday people. He was almost a pariah when the apocalypse struck and shattered the “everyday”. Don’t be fooled by his outfit: for all his casual unconcern, Gary has done well on its own so far. Gary has always been a survivor, and the zombies didn’t really change his habits. If you’re open-minded enough to see through Gary’s disguise, he could trust you and share his precious tools of the trade.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fgary.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fgary-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "ec778869-c794-4ef1-a78b-6ee04461190f",
+      "name": "Helen the federal agent",
+      "quote": "“Freeze! You… Hell. Force of habit.”\n*BAM*BAM*BAM*”",
+      "desc": "Helen was a federal agent, proud to uphold the law and protect the people. Her inquisitive nature and logical mind lead her into investigations, and she became a terror to the nation’s organized crime syndicates. She finally managed to anger the wrong people, though, and she was under investigation for trumped up corruption charges when the zombies came. With the streets full of flesh-eating monsters, the game had clearly changed, but Helen found that her skills and experience still applied. She finds it very refreshing not waiting for a warrant before breaking into wherever she needs to go.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fhelen.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fhelen-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "b654a056-abd8-4709-b55b-1f745b76c24e",
+      "name": "Ivy, the hitgirl",
+      "quote": "“Bullets are a girl’s best friends.”",
+      "desc": "Not so long ago, Ivy was one of the world’s best assassins. Nobody knew her real name, nor where to find her, but every mob boss knew she was a real witch with guns. And then, one day, Ivy vanished. Rumors said she went down in an epic gunfight against the Triads. Or the FBI. Or the bodyguards of an African Warlord. Rumors…",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fivy.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fivy-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "70eb46c5-2bdc-494e-8c86-4aa3984a6f42",
+      "name": "Jesse, the Deli Counter Man",
+      "quote": "“The turkey’s good. And it’s on sale!”",
+      "desc": "Dispensing meat and his own brand of homespun wisdom to his faithful customers, Jesse worked behind the deli counter of his local supermarket for years while still keeping all his fingers, earning him the respect and awe of his co-workers. Like any self-respecting entrepreneur Jesse started at the bottom, shelving cans, hauling boxes, and hustling carts from the parking lot. When a position in the deli’s meat department opened up Jesse was ready. Adept at small-talk, able to measure the weight of deli meats accurately with just a glance and beloved for his generosity with the free slice, Jesse was in his element. Unfortunately, the zombie outbreak left its mark. Traumatized, Jesse is now unable to slice anything and uses a frying pan to brain zombies.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjesse.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fjesse-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "5f7bc5f9-a7b9-43bb-897a-21c2a1a498ba",
+      "name": "Kabir, the Pulp Writer",
+      "quote": "“The pen may be mightier than the sword, but with zombies it’s better to use a sword.”",
+      "desc": "For as long as he could remember Kabir wanted to be a writer. That dream came true with his creation of Torg the Brutish, the star of a series of pulp fantasy novels which made Kabir literally hundreds of dollars and garnered him some very strange fan mail. After two-dozen books chronicling Torg’s adventures, Kabir decided it was time for the brute to “retire.” He was writing Torg’s death scene when the zombie outbreak hit, thus sparing him the inevitable death threats from distraught fans. Besides his skills as a wordsmith, Kabir is also an expert swordsman. A stickler for research, the mild-mannered writer took lessons in swordplay, a skill that makes him a boon to any group of survivors.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkabir.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkabir-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e75247b3-68f9-471d-aa74-b7df3b3deca8",
+      "name": "Kirk the old sensei",
+      "quote": "“Don’t rely on appearances. Rely on results. Watch, you could learn a trick or two.”",
+      "desc": "Kirk gained some fame twenty years ago, when learning martial arts was considered cool, and he was the best teacher in town. That respect faded over time as people found for new idols among the rich and famous. Kirk became a nobody and nearly abandoned his passion. Wealth and fame are useless against zombies, however, and Kirk surprised himself upon discovering he hadn’t lost his skills. Sure, he’s older now, but he will find his form again soon, as his abilities are in high demand again.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkirk.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkirk-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "d45658c9-8dc2-4b9c-bded-59e83b4d907b",
+      "name": "Kris, the Repo Man",
+      "quote": "“Keep an eye out while I hotwire this ‘78 Chevy Nova.”",
+      "desc": "Kris’s ability to hotwire any car in under thirty seconds made him a rising star in the automobile recovery field. If you needed a car repossessed, Kris was your man. Unfortunately, the seedy underbelly of the used car business soon intruded. Stopped by the police after repossessing a Lincoln Continental, Kris was unable to explain the dead body in the trunk. Before this unfortunate misunderstanding could be cleared up he found himself in the county pen. Escaping after the first zombie outbreak, Kris’s unique automobile-retrieval skill-set has made him much in demand amongst the survivors.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkris.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkris-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "6f80bc2b-fc36-41d9-89d7-2fbdae113607",
+      "name": "Kyoko, the free spirit",
+      "quote": "“Forget what you know about the fairer sex. The world has changed and so have the women!”",
+      "desc": "Before the zombie apocalypse, Kyoko had neither choice nor freedom. She studied the way her parents wanted, married the acceptable man instead of the one she loved, and hid her empty misery behind hollow smiles. While trying to conceive her first child with her husband, the zombies descended on the world in a gory whirlwind. For Kyoko, it was a release. Her universe has crumbled and she wants to enjoy it. Nobody can tell her who to be, what to do, what to wear. Kyoko has no regrets and now can be whoever she wants. New rules, for new times!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkyoko.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fkyoko-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "4582c388-949c-4fa4-991c-9a803689529e",
+      "name": "Lea the teenager",
+      "quote": "“I don’t need protection. You, though, need to learn a thing or two about women.”",
+      "desc": "Headstrong and resourceful, Lea was one of the rare teenagers who hung out with the popular kids and make the honor role. Had her fiery temper not caused so much mischief among teachers and classmates alike, she could have reached the very top. Society and its dumb rules didn’t fit her taste, and that kept her from having it all. The zombies changed all that. Life has gotten more challenging for Lea. She has outsmarted and outgunned most opponents so far, but lately she finds she’s afraid to be left alone. She is learning to swallow her pride and trust the other survivors. Zombies are teaching her how life can be easier when you have friends you can rely on.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/flea.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/flea-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "4a7ff74b-fa4e-48fa-a238-853ac3e3e5f4",
+      "name": "Leroy, the Accountant",
+      "quote": "“Be sure to itemize that, won’t you?”",
+      "desc": "Leroy always knew he wanted to be an accountant, and he worked hard to make his dream a reality. The day he became a Certified Public Accountant was the greatest of his life. All was well in his world of spreadsheets and PowerPoint presentations until he went on a mandatory teambuilding exercise set deep in the woods. The teambuilding exercise involved paintball and copious amounts of alcohol, and Leroy woke the next morning with a hangover and a Mohawk. Unfortunately the zombies chose that day to attack. The sole survivor of his slaughtered team, Leroy traded in his paintball rifle for the real thing. His transformation from mild-mannered accountant to cold-blooded killer has been nothing short of astounding.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fleroy.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fleroy-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "7cfdba49-d267-4b73-861f-0e73d06fcf15",
+      "name": "Lucius, the Weed Man",
+      "quote": "“Man, do I have the munchies!”",
+      "desc": "Lucius started growing marijuana soon after smoking his first joint. After flunking out of high school, Lucius discovered he had a green thumb and turned an enjoyable hobby into a full-fledged business. Everyone loved Lucius’s bud, and his nickname of the Weed Man stuck. Unfortunately, nothing lasts forever. Busted by the local cops, Lucius was being escorted to the police station when the zombie outbreak hit. The cops soon had other things to worry about and Lucius managed to slip away. Not a hero, Lucius ekes out a precarious existence bartering herb for life’s essentials.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/flucius.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/flucius-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "158d1b5c-ba19-47d1-b8f7-d4a9d6ed44ae",
+      "name": "Mack the car salesman",
+      "quote": "“Time to test drive these kukris!”",
+      "desc": "Mack’s story is like most – an ordinary, happy man until the zombies rose, forced to dig deep or die. His peaceful previous life hid his true potential – unfortunately, it took burying his wife and two daughters to bring it out. Taking a car from his lot, he began a cross country zombicide, eventually joining the motley crew of survivors. Mack’s fighting spirit has made him a precious resource for any team, and his manic grin gets even wider the worse the odds are!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmack.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmack-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "d16df69b-da15-43bb-ab51-d50fccda1d6f",
+      "name": "Marvin, the bodyguard",
+      "quote": "“Trust me and you’ll live.”",
+      "desc": "Nowadays, Marvin scouts the city trying to save as many people as possible. His legendary luck hasn’t left him and gives him the aura of a “redemption angel”: some people pray to him and beg him to find their lost ones amidst the death vortex. Marvin’s still cool: no way he’s going to become some kind of messiah. His dearest wish hasn’t changed since his childhood: all he wants is to be left in peace.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmarvin.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmarvin-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "b2c5bfe5-4883-4eb6-a871-28f82688a6bd",
+      "name": "Mike the miniature sculptor",
+      "quote": "“That walker is so realistic!”",
+      "desc": "Working with putty and tiny tools, Mike has been cooped up for years in his home studio sculpting miniatures for boardgames and the like. Obsessed with his craft, he didn’t notice when his wife left and took his daughter with her, and he didn’t notice the zombie apocalypse either! Well, that is, until he had to stab the mailman in the eye with a sculpting pick, and then wandered outside out of curiosity to find out what was going on. Mike now works with the other survivors, although they’re a little disturbed by how much joy he seems to take in the fact that actual, real zombies are “finally” running around.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmike.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmike-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "d6d5cebd-2e8e-488e-a565-25c8cd868635",
+      "name": "Miss Trish, the Kindergarten Teacher",
+      "quote": "“In kindergarten, only the strong survive!”",
+      "desc": "Miss Trish – as her young wards call her – may not look like much, but a core of steel lurks behind her granny glasses and sensible shoes. Leading naptimes, teaching the ABCs, and dispensing timeouts to rowdy kindergartners, Miss Trish rules her classroom with an iron fist. The first zombie outbreak found her on a class trip at a children’s zoo. Snatching up a firearm from a deceased police officer she herded her young charges onto the Piggle-Wiggle Choo-Choo Train, which she then steered to safety. Trading in her picture books for an Uzi, Miss Trish is one teacher you don’t want to cross!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmisstrish.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fmisstrish-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1bccd7be-3b55-4bb4-bb58-1bb8152dd70f",
+      "name": "Nick, the bad cop",
+      "quote": "“I do things by the book, my book!”",
+      "desc": "Lieutenant Nicholas Walker has sometimes been bad, and always been lucky. Corrupt and cocksure, Nick gets his man, anyway he can, even if it means doing things a normal cop wouldn’t do. Bluffing and bullying his way through the streets of New York, this highly decorated officer has put away hundreds of criminals and lined his pockets discreetly while he was at it. Now, with no more crime and money meaningless, he desperately searches for his wife, rescuing and helping other survivors in the vain hope that someone has seen her.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fnick.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fnick-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "eb6566d8-6e5b-4161-9fb4-4000c12285e4",
+      "name": "Nikki, the Gator Wrangler",
+      "quote": "“The South will rise again one day, but I ain’t holding my breath.”",
+      "desc": "A Southern girl, Nikki grew up in Alabama on her mom and dad’s alligator farm. Her parents taught her the tricks of the gator trade, skinning, tanning, breeding and – of course – wrestling. Nikki soon took over the family business, delighting folks of all ages by wrestling alligators twice her size and weight into submission. When the zombies came she released her gators into the wild, fired up her motorcycle and sped off into the sunset. A boon to any group of survivors, Nikki is a crack shot, wields a mean flaying knife and knows hundreds of wrestling moves.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fnikki.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fnikki-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "8467e625-c519-4919-9753-e35be8d9e01f",
+      "name": "Oksana, the Stunt Woman",
+      "quote": "“I got two fractures, a concussion and a broken nose doing that stunt. It was awesome!”",
+      "desc": "Leaping from her roof onto a trampoline at the age of six, Oksana began her career as a stunt woman early. The broken arm set, and so did her resolve. Brushing off the minor nicks and abrasions that ensued over the years, Oksana found her way to Hollywood where her daredevil exploits quickly made her a star. No stunt was too dangerous, no risk too great, no height too high. Like all adrenaline junkies, Oksana felt that the price of fame was well worth the occasional fractured skull or hospital stay. The zombie outbreak has, if anything, made her even more reckless.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/foksana.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/foksana-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "8ffa9244-0992-448d-908a-b1db352bbfc5",
+      "name": "Patrick, the Hipster",
+      "quote": "“God, I’d kill for a soy bean caramel peppermint latte right now.”",
+      "desc": "Settling in a rapidly gentrifying neighborhood with 1.3 cafes per block and a vibrant arts scene, Patrick set about renovating his brownstone apartment. Wearing thrift-store shirts and stonewashed jeans, listening to the latest prog rock bands, and sipping lattes to his heart’s content, Patrick lived an idyllic existence until the zombies came. He found inner reserves of strength he didn’t know he had protecting his beloved neighborhood from the dead. It was a losing battle and soon Patrick was forced to leave, joining other survivors in their desperate struggle.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fpatrick.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fpatrick-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1a563371-6d57-4b40-b06e-516d8ff4d227",
+      "name": "Paul, the Reality TV Star",
+      "quote": "“Ever been kicked by a giraffe? They’re nasty critters.”",
+      "desc": "Discovered by TV producers during $2 Pitcher Night at his local bowling alley, Paul hit the big-time in the African Safari Journey reality show, leading his team to a fourth place finish. His star rose as he starred in the inevitable sequels and reunions. When African Safari Journey was cancelled Paul hit the skids, and was working as a short-order cook at a local diner when the dead rose. Taking charge, he led his terrified patrons to safety. Paul doesn’t have many useful survival skills, but people respond to his leadership skills and irascible persona. The world needs a hero, and Paul is glad to play the part!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fpaul.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fpaul-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "3b28ff11-8a1f-4398-98d3-4799c5478173",
+      "name": "Ralph the cowboy",
+      "quote": "“You led an easy life for too long. Let me summarize the situation: kill or get killed.”",
+      "desc": "After a successful investment, Ralph earned enough money to buy a quiet ranch and retire. When he heard zombies had come from the city to invade the country, he fortified his house and armed his family to face anything. He was about to let the whole damn world burn when his conscience tickled his mind. He had to go back to the city, find his former friends, and save their butts. The situation is even worse than he expected, but so far, wilderness lessons apply very well to urban survival.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fralph.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fralph-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "9c34af8d-71ef-4c9c-9588-fa730c351c89",
+      "name": "Rick the stuntman",
+      "quote": "“Pain is a friend. Don’t mess with a stuntman.”",
+      "desc": "People think of stuntmen as modern daredevils, unsung heroes paid to put themselves in danger and escape the most difficult situations to make someone else look good. In fact, stuntmen are careful and patient individuals in perfect physical condition. They plan their stunts like their lives depend on the preparation, because they do. Rick knows exactly how far he can push himself and what to do when something goes wrong. Unfortunately, Rick was in the hospital after a rough stunt when the zombies came and got most of his friends. His ribs still hurt, but that won’t last. Then it will be time for payback. Rick has been wary of other people for a long time—they can break so easily under pressure. He acts like a moody loner for now but is slowly beginning to trust some of his teammates.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frick.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frick-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "897c3f9c-05eb-47bf-8397-f86bf33525a7",
+      "name": "Rob the security expert",
+      "quote": "“I intend to keep breathing. I suggest you pay attention to experience, if you want the same.”",
+      "desc": "After decades as an anti-intrusion expert, testing security systems the world over, Rob reluctantly retired to a life of idyll on a sunny beach. The boredom was just getting to him when the zombies appeared, exactly what he needed to make a new start. Rob doesn’t feel old at all. With a gun in each hand, he’ll prove it, anywhere, anytime.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frob.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frob-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "e3d80c7c-c920-4313-9225-508a83b8de79",
+      "name": "Rose the aunt",
+      "quote": "“Don’t worry about me, honey. These zombies are my makeover.”",
+      "desc": "Rose was your ideal loving, caring, cooking, loveable aunt, always smiling and giving out wise words to the whole family. Some people, however, started to worry for her after one or two memory lapses. They were wrong to underestimate Aunt Rose. When the zombies came, she was horrified at first but adapted to the situation faster than many younglings. Sure, there is blood and mayhem, and sure, she sometimes forgets her reading glasses in the fridge, but Rose has found a brand new family of survivors to care for.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frose.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/frose-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "1fc3eb95-4d43-4758-a4f4-a6bd8b9f32c7",
+      "name": "Ross the manager",
+      "quote": "“With the right bait, we could get all the zombies on the block into this bank building and torch them down.”",
+      "desc": "Ross was leading a peaceful life as a warehouse manager when the zombies appeared. Ross, however, is more than he appears. He left the army twenty years ago with scars and PTSD but believed he had moved on. The invasion triggered something in him, something dirty he had thought buried forever. His soldier’s instincts came roaring back, along with old wounds. His tactical awareness and skill with weapons, however, are priceless to any survivor team. If he would just put down his bowling ball…",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fross.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fross-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "ac2b8803-4c8b-4a9d-bd65-e4aa599af66c",
+      "name": "Seth, the Underwear Model",
+      "quote": "“It’s a tough gig, the men’s lingerie business.”",
+      "desc": "Laid off from his job at the steel mill, Seth decided to change careers. Graduating from a modeling agency at the age of forty-seven, he hit the big time when the Tightie-Whitie Men’s Undergarment Company came calling. A hit with the forty-plus ladies, Seth became Tightie-Whitie’s spokesperson, displaying his own tighty whities for all the world to see. When the zombies came Seth was working as a runway model at an AARP gathering. Fleeing half-naked into the night, he managed to garb himself in a mannequin’s clothes. A valued member of any group of survivors, Seth still has to endure some ribbing from those who recall his former career as a centerfold.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fseth.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fseth-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "5f72441b-6b02-4a31-a9a5-8794556b7654",
+      "name": "Smith, dog of war",
+      "quote": "“…”",
+      "desc": "Smith mustered out of the special forces straight into private “security”, working all over the world for the highest bidder. Specializing in wetwork and asking no questions, Smith was in town for a contract when all hell broke loose. Fortunately for him, and unfortunately for the zombies, he had his arsenal stashed nearby. Though used to working alone, even Smith knows he doesn’t have enough bullets to take on the zombie hordes by himself. Forced to cooperate with the other survivors, he’s finding it hard on his limited social skills.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fsmith.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fsmith-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "2802b900-9c0d-4c88-a94d-23f0d9fef8e4",
+      "name": "Spencer, the Germophobe",
+      "quote": "“We need to clean.”",
+      "desc": "Spencer hates germs – a lot. An acute mysophobic, he was pretty much a hermit, avoiding all human contact. Spencer even went so far as to shave himself smooth, in an attempt to eliminate any microscopic mites that could be living in his hair. He kept his beard though, because it caught the crumbs from his food before they could land on his clothes. Spencer even bought a hazmat suit and proceeded to scrub, bleach, and fumigate his house after finding fungus in the shower grout. Kept safe by his isolation during the initial outbreak, Spencer was forced to venture out when his supplies were exhausted. Facing his worst nightmare of leaving his sterile cocoon, he soon discovered he wasn’t scared. No… no… he was ANGRY! Angry at the hordes of disgusting, rotten, disease riddled masses! Now he’s going to sterilize the world, one zombie at a time…",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fspencer.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fspencer-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "db33c841-5e27-42b3-baec-dfe94e7decb8",
+      "name": "Thaissa the entrepreneur",
+      "quote": "“The world is not ending, just changing. No need to panic. We’ll just adjust some parameters.”",
+      "desc": "Thaissa was a successful entrepreneur when the zombies came and tried to change the deal. She kept her cool and slightly altered her terms of service to fit the situation. Thaissa now grows her network among local survivors, dealing in equipment, information, and weapons. Of course, her beauty and unusual attire help a lot. After all, a new world means new possibilities.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fthaissa.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fthaissa-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "f813c131-e686-463c-a002-14b8075e5199",
+      "name": "Thiago",
+      "quote": "“And now, a botte secrète my ancestor used to defeat a champion at the court of France!”",
+      "desc": "Raised with a silver spoon in the mouth and full of old-fashioned principles, Prince Thiago was all of a sudden left alone in a hostile world when zombies came. His skills at escrime and target shooting, however, made the difference and he soon joined a survivor team. Thiago quickly adapted his lifestyle change. However, his sense of chivalry is intact. The prince is learning the meaning of real life and might come out of the zombicide as a real king.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fthiago.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fthiago-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "bcd061bf-77ae-447f-98db-47f16f4f9803",
+      "name": "Troy, the traveller",
+      "quote": "“What… you never seen a shotgun before?”",
+      "desc": "Troy has traveled far and wide. He has fought zombies and demons for years, even centuries if you believe him. Troy knows where they come from and what must be done to send them back to Hell. Most likely he’s seen one too many horror films, that’s all. Troy is probably mad. Or is he?",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ftroy.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/ftroy-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "0777a169-7c90-42bc-b5a1-6311e7debd2a",
+      "name": "Will the game designer",
+      "quote": "“Don’t spend this Molotov like you can loot one anytime. It’s a rare drop, noob!”",
+      "desc": "Will earned his job as a videogame designer. He served his stint as a noob trainee, spending more time carrying coffee than programming, just to become a Useless Probationer (with a right to make photocopies). After three difficult years, he finally got a fulltime job and his own noob trainee. Only his passion for videogames—and above all, zombie videogames—gave him the will to endure this. Now that zombies have come for real, everything is perfect. Except for his noob teammates (who often refuse to share the interesting rare drops). But Will knows he can train them to the top tier!",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwill.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fwill-z.jpg",
+      "isInfected": false
+    },
+    {
+      "id": "2521cf93-da89-438e-9030-e0ab7f6782a5",
+      "name": "Yuri, the Mall Cop",
+      "quote": "“Working at the mall, it’s tough telling the living and the zombies apart.”",
+      "desc": "After a dishonorable discharge from the Marine Corps, Yuri embarked on a satisfying second career as a mall cop. Zooming back and forth on his mall scooter, dispensing frontier justice to stoned teenagers in the parking lot, Yuri was never happier. The zombie invasion ended all that, and soon Yuri’s mall was literally dead. He stuck it out until the mall’s generator went out before joining a group of other survivors. Personality conflicts have stopped him from staying with any one group for an extended period of time. Universally disliked, he has thus far avoided being killed in a ‘friendly-fire’ incident.",
+      "survivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fyuri.jpg",
+      "zombivorImage": "https://www.zombicide.com/wp-content/uploads/2015/11/fyuri-z1.jpg",
+      "isInfected": false
+    }
+  ]
+}

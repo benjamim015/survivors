@@ -45,7 +45,7 @@ export function SurvivorCard({
             src={isSurvivorInfected ? zombivorImage : survivorImage}
             alt={name}
             fill
-            sizes="100vw"
+            sizes="30vw"
             style={{ objectFit: 'cover', objectPosition: '15%' }}
             className="rounded-l-lg"
             priority

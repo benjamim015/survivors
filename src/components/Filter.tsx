@@ -1,11 +1,13 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable react/no-unstable-nested-components */
 import { TextInput, Button, Text } from '@altitude-ui/react';
 import { Search } from 'lucide-react';
+import { ChangeEvent } from 'react';
 
 type FilterProps = {
   search: string;
   searchByInfected: boolean;
-  handleSearch: (e) => void;
+  handleSearch: (e: ChangeEvent<HTMLInputElement>) => void;
   handleSearchByInfected: () => void;
 };
 
