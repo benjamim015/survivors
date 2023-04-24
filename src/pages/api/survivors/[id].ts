@@ -18,11 +18,15 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     const survivorIndex = survivors.findIndex((survivor) => survivor.id === id);
     survivors[survivorIndex].isInfected = isInfected;
 
-    writeFileSync(
-      `${jsonDirectory}/survivors-data.json`,
-      JSON.stringify({ survivors }, null, 2)
-    );
-
+    try {
+      writeFileSync(
+        `${jsonDirectory}/survivors-data.json`,
+        JSON.stringify({ survivors }, null, 2)
+      );
+    } catch (error) {
+      console.error(error);
+      return res.status(500).send({});
+    }
     return res.status(200).json({ ok: true });
   }
 
